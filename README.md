@@ -1,11 +1,27 @@
-- 👋 Hi, I’m Andrea
-- 👩‍💻 This is a backup account
-- 🌱 I’m currently learning computer systems programming.
-- 💞️ I’m interested in working together on interesting projects
-- 📫 How to reach me andreasierra1223@gmail.com / andreasierra103@gmail.com
-- ⚡ Fun fact: I have another GitHub ANDREASIERRA55
+### ¡Hola! 👋, soy Andrea Sierra 👩‍💻
 
-<!---
-Andrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Desarrolladora Web | Perfil de Proyectos Recientes
+
+Este es mi perfil secundario, donde comparto mis proyectos más recientes con **Vue**, **Django** y **PostgreSQL**. ¡Explora mi trabajo y visita mi [perfil principal](https://github.com/ANDREASIERRA55) para más sobre mí!
+
+- 🌱 Actualmente estoy aprendiendo ** Python / Django / PostgreSQL / Flask **
+- 💞️ Busco colaborar en proyectos web interesantes
+- 📫 Contáctame en: andreasierra103@gmail.com
+- 💡 Me apasiona construir aplicaciones web modernas y funcionales
+
+### 🛠 Tecnologías:
+![Python](https://img.shields.io/badge/Python-3776AB?style-for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style-for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style-for-the-badge&logo=postgresql&logoColor=white)
+
+
+---
+
+### 🔗 Conéctate conmigo:
+[![GitHub Principal](https://img.shields.io/badge/GitHub-ANDREASIERRA55-181717?style-for-the-badge&logo=github)](https://github.com/ANDREASIERRA55)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Sierra-blue?style-for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andreasierra103/)
+
+---
+
+🚀 *¡Creando, aprendiendo y creciendo como desarrolladora!*
