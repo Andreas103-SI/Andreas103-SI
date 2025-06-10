@@ -2,7 +2,7 @@
 
 #### Desarrolladora Web | Perfil de Proyectos Recientes
 
-Este es mi perfil secundario, donde comparto mis proyectos más recientes con **Vue**, **Django** y **PostgreSQL**. ¡Explora mi trabajo y visita mi [perfil principal](https://github.com/ANDREASIERRA55) para más sobre mí!
+Este es mi perfil secundario, donde comparto mis proyectos más recientes con **Python**, **Django** y **PostgreSQL**. ¡Explora mi trabajo y visita mi [perfil principal](https://github.com/ANDREASIERRA55) para más sobre mí!
 
 ---
 
